@@ -1,2 +1,2 @@
 # sql_projects
-A collection of my sql projects, samples and learnings
+A collection of my sql projects, samples and learnings.

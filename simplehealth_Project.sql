@@ -6,7 +6,7 @@ USE simplehealth;
 -- Where o.user_id = l.user_id; ----
 
 
--- first visit
+-- first visit --
 SELECT * FROM logs
 where log_subject LIKE ('visit%');
 

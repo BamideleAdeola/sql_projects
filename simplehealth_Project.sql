@@ -3,7 +3,7 @@ USE simplehealth;
 -- SELECT l.user_id,l.date_created As Logdate, o.date_created AS OrderDate, datediff(l.date_created,o.date_created)
 -- FROM orders o, logs l
 -- -- Where l.user_id = u.id;--
--- Where o.user_id = l.user_id; --
+-- Where o.user_id = l.user_id;
 
 
 -- first visit --
